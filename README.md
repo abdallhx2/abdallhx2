@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hi there, I'm Abdallh! 👋
+# Hi there, I'm Abdullh! 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/abdallhx2?label=Follow&style=social)](https://github.com/abdallhx2)
 [![Profile Views](https://komarev.com/ghpvc/?username=abdallhx2&color=brightgreen)](https://github.com/abdallhx2)
